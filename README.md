@@ -8,6 +8,11 @@ I'm Jip Irfandy, a software engineer that focuses on Javascript.
 👔 Started programming career in 2018  
 🎢 Used Javascript the _longest_  
 
+### 😶‍🌫️ Interested in
+🔬 What we can do more with data #dataanalytics  
+🧣 Product Management  
+👟 Innovating developer's experience  
+
 ### 🤔 Curiousity
 Why does developer that focuses on creating frontend app, called "frontend"  
 The one working with the server "backend"  
