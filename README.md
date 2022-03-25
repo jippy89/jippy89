@@ -1,8 +1,9 @@
-# 👋 Hello, I'm Jip
+# 👋 Hello, I'm Jip Irfandy
 
 ### 👨‍💻 About me
 
 I'm Jip Irfandy, a software engineer that focuses on Javascript.  
+
 🎈 Started programming since 2013 in high school with Pascal  
 ✨ Learned C/C++ and Python in 2016  
 👔 Started programming career in 2018  
@@ -13,10 +14,11 @@ I'm Jip Irfandy, a software engineer that focuses on Javascript.
 🧣 Product Management  
 👟 Innovating developer's experience  
 
+<!-- 
 ### 🤔 Curiousity
 Why does developer that focuses on creating frontend app, called "frontend"  
 The one working with the server "backend"  
-But we don't call the one who does 'em all "fullend"? 😂
+But we don't call the one who does 'em all "fullend"? 😂 -->
 
 <!-- ### 🛠  Tech Stack -->
 
