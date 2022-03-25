@@ -4,7 +4,7 @@
 
 I'm Jip Irfandy, a software engineer that focuses on Javascript.  
 🎈 Started programming since 2013 in high school with Pascal  
-✨ Learned C/C++ and Python in 2016
+✨ Learned C/C++ and Python in 2016  
 👔 Started programming career in 2018  
 🎢 Used Javascript the _longest_  
 
