@@ -1,4 +1,4 @@
-# Jip Irfandy
+# 👋 Hello, I'm Jip
 
 ### 👨‍💻 About me
 
