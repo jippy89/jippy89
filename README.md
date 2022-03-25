@@ -1,4 +1,13 @@
-### Hi there 👋
+# Jip Irfandy
+
+I'm Jip Irfandy 👨‍💻, a software engineer that focuses on Javascript.
+
+Hobbies:
+ - ✍️ Writing
+ - 💻 Code
+ - ☕ Coffee
+
+Personal Website: 🚧 On Progress
 
 <!--
 **jippy89/jippy89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
