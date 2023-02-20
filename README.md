@@ -32,13 +32,14 @@ But we don't call the one who does 'em all "fullend"? 😂 -->
  - 💻 Code
  - ☕ Coffee -->
 
-StackOverflow: [Jip Irfandy](https://stackoverflow.com/users/7494877/irfandy-jip)  
+#### 🛢 StackOverflow:
+[![jippy89's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7494877)](https://stackoverflow.com/users/7494877/irfandy-jip)
+
 Personal Website: 🚧 On Progress
 
 ![jippy89's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jippy89&layout=compact&theme=tokyonight)
 
 <!-- ![jippy89's GitHub stats](https://github-readme-stats.vercel.app/api?username=jippy89&show_icons=true&theme=tokyonight)   -->
-
 
 <!--
 **jippy89/jippy89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
